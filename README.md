@@ -1,2 +1,2 @@
 # task-manager
-A personal task managern for learning cryptography
+A personal task manager for learning practical aspects of cryptography such as ZKP, FHE and MPC.
